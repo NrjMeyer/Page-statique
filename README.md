@@ -1,18 +1,18 @@
 # Premier site avec Rails
 
-# Projet de en pair programing de Itokiana et Njaratina || sur slack: @itokiana, @meyer
+**Projet de en pair programing de Itokiana et Njaratina || sur slack: @itokiana, @meyer**
+
 ![picure](image.jpg)
 
 ## Lisez ici,
-Tout d'abord, lire le Readme.md jusqu'à la fin avant de corriger.* **C'est très important!** *
+Tout d'abord, lire le Readme.md jusqu'à la fin avant de corriger.***C'est très important!***
 
 ## Projet du jour 
 **Bonjour les correcteurs !**
 
-Voici la liste des projets aujourd'hui.
+Voici la liste des projets aujourd'hui:
 
-- 01 - ***Page statique*** - 
-- 02 - ***Site avec backend*** - 
+- 01 - ***Page statique*** -  
 
 
 
